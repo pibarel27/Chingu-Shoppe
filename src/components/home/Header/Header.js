@@ -129,10 +129,10 @@ const Header = () => {
                           transition={{ duration: 0.4 }}
                           className="text-sm flex flex-col gap-1"
                         >
-                          <li className="headerSedenavLi">New Arrivals</li>
-                          <li className="headerSedenavLi">Gadgets</li>
-                          <li className="headerSedenavLi">Accessories</li>
-                          <li className="headerSedenavLi">Electronics</li>
+                          <li className="headerSedenavLi">Nike</li>
+                          <li className="headerSedenavLi">Puma</li>
+                          <li className="headerSedenavLi">Adidas</li>
+                          <li className="headerSedenavLi">Jockey</li>
                           <li className="headerSedenavLi">Others</li>
                         </motion.ul>
                       )}
