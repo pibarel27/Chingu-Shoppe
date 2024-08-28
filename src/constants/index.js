@@ -423,7 +423,7 @@ export const paginationItems = [
   {
     _id: 1038,
     img: newArrTwo,
-    productName: "Smart Watch",
+    productName: "Smart Watches",
     price: "250.00",
     color: "Black",
     badge: true,
