@@ -37,6 +37,7 @@ export const chinguSlice = createSlice({
         item.quantity--;
       }
     },
+    
     deleteItem: (state, action) => {
       state.products = state.products.filter(
         (item) => item._id !== action.payload
