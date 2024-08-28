@@ -1,11 +1,4 @@
-import {
-  createBrowserRouter,
-  RouterProvider,
-  Outlet,
-  createRoutesFromElements,
-  Route,
-  ScrollRestoration,
-} from "react-router-dom";
+import {createBrowserRouter,RouterProvider,Outlet,createRoutesFromElements,Route,ScrollRestoration} from "react-router-dom";
 import Footer from "./components/home/Footer/Footer";
 import FooterBottom from "./components/home/Footer/FooterBottom";
 import Header from "./components/home/Header/Header";
