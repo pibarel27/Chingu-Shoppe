@@ -10,7 +10,7 @@ import {
   REGISTER,
 } from "redux-persist";
 import storage from "redux-persist/lib/storage";
-import orebiReducer from "./orebiSlice";
+import orebiReducer from "./chinguSlice";
 
 const persistConfig = {
   key: "root",
