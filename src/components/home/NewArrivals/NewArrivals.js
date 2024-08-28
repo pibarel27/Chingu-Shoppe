@@ -76,7 +76,7 @@ const NewArrivals = () => {
           <Product
             _id="100003"
             img={newArrThree}
-            productName="cloth Basket"
+            productName="Cloth Basket"
             price="80.00"
             color="Mixed"
             badge={true}
@@ -98,7 +98,7 @@ const NewArrivals = () => {
           <Product
             _id="100005"
             img={newArrTwo}
-            productName="Funny toys for babies"
+            productName="Smart watches"
             price="60.00"
             color="Mixed"
             badge={false}
