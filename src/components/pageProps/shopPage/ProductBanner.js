@@ -64,7 +64,7 @@ const ProductBanner = ({ itemsPerPageFromBanner }) => {
             <option value="Best Sellers">Best Sellers</option>
             <option value="New Arrival">New Arrival</option>
             <option value="Featured">Featured</option>
-            <option value="Final Offer">Final Offer</option>
+            <option value="Final Offer">Season Offer</option>
           </select>
           <span className="absolute text-sm right-2 md:right-4 top-2.5">
             <GoTriangleDown />
