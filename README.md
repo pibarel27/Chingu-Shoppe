@@ -3,14 +3,13 @@
   <a href="" target="_blank"></a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./src/Assets/Readme.png" />
+  <img alt="Demo" src="./src/assets/Readme.png" />
 </div>
 
 <br/>
 
 <center>
-
-
+  
 ## TL;DR
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to https://github.com/pibarel27/Portfolio2.0 . Thanks!
