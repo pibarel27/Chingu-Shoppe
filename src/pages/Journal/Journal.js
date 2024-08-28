@@ -13,7 +13,7 @@ const Journal = () => {
       <Breadcrumbs title="Journals" prevLocation={prevLocation} />
       <div className="pb-10">
         <h1 className="max-w-[600px] text-base text-lightText mb-2">
-          <span className="text-primeColor font-semibold text-lg">Orebi</span>{" "}
+          <span className="text-primeColor font-semibold text-lg">Chingu</span>{" "}
           Consider the item packaging traditionally seen in brick-and-mortar stores!
         </h1>
         <Link to="/shop">
