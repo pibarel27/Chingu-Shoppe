@@ -12,7 +12,7 @@
   
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to https://github.com/pibarel27/Portfolio2.0 . Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to https://github.com/pibarel27/chingu-shoppe. Thanks!
 
 ## Built With
 This project was built using these technologies.
