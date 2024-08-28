@@ -16,7 +16,7 @@ const BestSellers = () => {
         <Product
           _id="1011"
           img={bestSellerOne}
-          productName="Flower Base"
+          productName="Flower Vase"
           price="35.00"
           color="Blank and White"
           badge={true}
@@ -25,7 +25,7 @@ const BestSellers = () => {
         <Product
           _id="1012"
           img={bestSellerTwo}
-          productName="New Backpack"
+          productName="New Bagpack"
           price="180.00"
           color="Gray"
           badge={false}
