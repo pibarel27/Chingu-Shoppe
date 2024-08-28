@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
-import { FaTwitter, FaYoutube, FaLinkedin, FaGithub } from "react-icons/fa";
+import { FaTwitter, FaLinkedin, FaGithub, FaFacebook } from "react-icons/fa";
 import FooterListTitle from "./FooterListTitle";
 import { paymentCard } from "../../../assets/images";
 import Image from "../../designLayouts/Image";
@@ -38,7 +38,7 @@ const Footer = () => {
             </p>
             <ul className="flex items-center gap-2">
               <a
-                href="https://www.linkedin.com/in/shrikant-kushwah-5bb1911b2/"
+                href="https://www.linkedin.com/in/akash-maisnam-92726224b/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -48,7 +48,7 @@ const Footer = () => {
               </a>
 
               <a
-                href="https://github.com/shrikant-kushwah"
+                href="https://github.com/pibarel27"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -58,7 +58,7 @@ const Footer = () => {
               </a>
 
               <a
-                href="https://twitter.com/kushwa_shrikant"
+                href="https://twitter.com/MaisnamPibarel"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -68,12 +68,12 @@ const Footer = () => {
               </a>
 
               <a
-                href="https://youtube.com/@engiladka5200"
+                href="https://www.facebook.com/pibarel27"
                 target="_blank"
                 rel="noreferrer"
               >
                 <li className="w-7 h-7 bg-primeColor text-gray-100 hover:text-white cursor-pointer text-lg rounded-full flex justify-center items-center hover:bg-black duration-300">
-                  <FaYoutube />
+                  <FaFacebook />
                 </li>
               </a>
 
@@ -84,7 +84,7 @@ const Footer = () => {
           <FooterListTitle title="Shop" />
           <ul className="flex flex-col gap-2">
             <li className="font-titleFont text-base text-lightText hover:text-black hover:underline decoration-[1px] decoration-gray-500 underline-offset-2 cursor-pointer duration-300">
-              Accesories
+              Accessories
             </li>
             <li className="font-titleFont text-base text-lightText hover:text-black hover:underline decoration-[1px] decoration-gray-500 underline-offset-2 cursor-pointer duration-300">
               Clothes
