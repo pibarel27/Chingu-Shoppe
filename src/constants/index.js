@@ -56,7 +56,7 @@ export const SplOfferData = [
   {
     _id: "202",
     img: newArrFour,
-    productName: "Tea Table",
+    productName: "Table",
     price: "180.00",
     color: "Gray",
     badge: true,
@@ -74,7 +74,7 @@ export const SplOfferData = [
   {
     _id: "204",
     img: spfFour,
-    productName: "Sun glasses",
+    productName: "Sunglasses",
     price: "220.00",
     color: "Black",
     badge: true,
@@ -89,7 +89,7 @@ export const paginationItems = [
   {
     _id: 1001,
     img: 'https://images.pexels.com/photos/3029796/pexels-photo-3029796.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    productName: "Tea Shirt for Boys",
+    productName: "T-Shirt for Boys",
     price: "35.00",
     color: "Black and White",
     badge: true,
@@ -98,7 +98,7 @@ export const paginationItems = [
   {
     _id: 1002,
     img: spfTwo,
-    productName: "Tea Table",
+    productName: "Table",
     price: "180.00",
     color: "Gray",
     badge: true,
@@ -116,7 +116,7 @@ export const paginationItems = [
   {
     _id: 1004,
     img: spfFour,
-    productName: "Sun glasses",
+    productName: "Sunglasses",
     price: "220.00",
     color: "Black",
     badge: true,
@@ -125,7 +125,7 @@ export const paginationItems = [
   {
     _id: 1005,
     img: bestSellerOne,
-    productName: "Flower Base",
+    productName: "Flower Vase",
     price: "35.00",
     color: "Blank and White",
     badge: true,
@@ -134,7 +134,7 @@ export const paginationItems = [
   {
     _id: 1006,
     img: bestSellerTwo,
-    productName: "New Backpack",
+    productName: "New Bagpack",
     price: "180.00",
     color: "Gray",
     badge: false,
@@ -179,7 +179,7 @@ export const paginationItems = [
   {
     _id: 1011,
     img: newArrThree,
-    productName: "cloth Basket",
+    productName: "Cloth Basket",
     price: "80.00",
     color: "Mixed",
     badge: true,
@@ -261,7 +261,7 @@ export const paginationItems = [
   {
     _id: 1020,
     img: newArrThree,
-    productName: "cloth Basket",
+    productName: "Cloth Basket",
     price: "80.00",
     color: "Mixed",
     badge: true,
@@ -270,7 +270,7 @@ export const paginationItems = [
   {
     _id: 1021,
     img: 'https://images.pexels.com/photos/2769297/pexels-photo-2769297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    productName: "Tea Shirt for Boys",
+    productName: "T-Shirt for Boys",
     price: "25.00",
     color: "White",
     badge: true,
@@ -279,7 +279,7 @@ export const paginationItems = [
   {
     _id: 1022,
     img: spfFour,
-    productName: "Sun glasses",
+    productName: "Sunglasses",
     price: "220.00",
     color: "Black",
     badge: true,
@@ -288,7 +288,7 @@ export const paginationItems = [
   {
     _id: 1023,
     img: bestSellerOne,
-    productName: "Flower Base",
+    productName: "Flower Vase",
     price: "35.00",
     color: "Blank and White",
     badge: true,
@@ -306,7 +306,7 @@ export const paginationItems = [
   {
     _id: 1025,
     img: spfTwo,
-    productName: "Tea Table",
+    productName: "Table",
     price: "180.00",
     color: "Gray",
     badge: true,
@@ -324,7 +324,7 @@ export const paginationItems = [
   {
     _id: 1027,
     img: spfFour,
-    productName: "Sun glasses",
+    productName: "Sunglasses",
     price: "220.00",
     color: "Black",
     badge: true,
@@ -333,7 +333,7 @@ export const paginationItems = [
   {
     _id: 1028,
     img: bestSellerOne,
-    productName: "Flower Base",
+    productName: "Flower Vase",
     price: "35.00",
     color: "Blank and White",
     badge: true,
@@ -342,7 +342,7 @@ export const paginationItems = [
   {
     _id: 1029,
     img: bestSellerTwo,
-    productName: "New Backpack",
+    productName: "New Bagpack",
     price: "180.00",
     color: "Gray",
     badge: false,
@@ -387,7 +387,7 @@ export const paginationItems = [
   {
     _id: 1034,
     img: newArrThree,
-    productName: "cloth Basket",
+    productName: "Cloth Basket",
     price: "80.00",
     color: "Mixed",
     badge: true,
@@ -459,7 +459,7 @@ export const paginationItems = [
   {
     _id: 1042,
     img: newArrThree,
-    productName: "cloth Basket",
+    productName: "Cloth Basket",
     price: "80.00",
     color: "Mixed",
     badge: true,
@@ -477,7 +477,7 @@ export const paginationItems = [
   {
     _id: 1044,
     img: spfFour,
-    productName: "Sun glasses",
+    productName: "Sunglasses",
     price: "220.00",
     color: "Black",
     badge: true,
@@ -486,7 +486,7 @@ export const paginationItems = [
   {
     _id: 1045,
     img: bestSellerOne,
-    productName: "Flower Base",
+    productName: "Flower Vase",
     price: "35.00",
     color: "Blank and White",
     badge: true,
