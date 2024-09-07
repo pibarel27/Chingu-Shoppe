@@ -10,7 +10,7 @@ const FooterBottom = () => {
             <AiOutlineCopyright />
           </span>
           Copyright 2024 | Chingu shopping | All Rights Reserved |
-          <a href="https://legacy.reactjs.org/" target="_blank" rel="noreferrer">
+          <a href="https://github.com/pibarel27" target="_blank" rel="noreferrer">
             <span className="ml-1 font-medium group-hover:text-primeColor">
               Developed by Pibarel
             </span>
